@@ -11,6 +11,7 @@ package com.chq;
 public class User {
     private String name;
     private Integer age;
+    private String email;
 
     public String getName() {
         return name;
